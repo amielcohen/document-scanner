@@ -1,0 +1,8 @@
+Telegram bot for scanning documents
+Aligns the document and cuts the background
+
+Using opencv to manipulate the image
+
+The bot is online and you can try it at the link:
+
+https://t.me/documentScanner_bot
